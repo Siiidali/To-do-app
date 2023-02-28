@@ -51,14 +51,6 @@
       "endDate": "05/01/2023"
     },
     {
-      "todoId": 5,
-      "id": 2,
-      "title": "delectus aut autem",
-      "description": "quis ut nam facilis et officia qui",
-      "completed": true,
-      "endDate": "05/01/2023"
-    },
-    {
       "todoId": 18,
       "id": 3,
       "title": "delectus aut autem",
@@ -218,15 +210,6 @@
       "completed": true,
       "endDate": "05/11/2022",
       "pos": 4,
-      "description": "qui ullam ratione quibusdam voluptatem quia omnis"
-    },
-    {
-      "userId": 1,
-      "id": 5,
-      "title": "laboriosam mollitia et enim quasi adipisci quia provident illum",
-      "completed": false,
-      "endDate": "05/01/2023",
-      "pos": 5,
       "description": "qui ullam ratione quibusdam voluptatem quia omnis"
     },
     {
