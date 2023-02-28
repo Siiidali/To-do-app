@@ -1,0 +1,15 @@
+.addForm {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  align-items: center;
+}
+
+input {
+  height: 50px;
+  width: 30vw;
+  border: 0;
+  border: 1px solid black;
+  border-radius: 5px;
+  padding: 0.5rem;
+}
